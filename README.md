@@ -1,77 +1,85 @@
-<h1 align="center">Hi 👋, I'm Karim Souissi</h1>
-<h3 align="center">A Passionate Data Scientist & AI Enthusiast</h3>
+<!-- Title Section -->
+<h1 align="center">Hi, I'm Karim Souissi 👋</h1>
+<h3 align="center" style="color:#42a5f5;">A Passionate Data Scientist & AI Enthusiast</h3>
 
-### 🚀 About Me
+---
+
+<!-- About Me Section -->
+## 🧑‍💻 About Me  
 - 🌱 **Currently Learning:**  
-  I'm currently exploring **NLP**, focusing on deep learning techniques like **Transformers, LSTMs, and Autoencoders**.  
-  I'm working on **text preprocessing, vectorization methods, and sequence models** to enhance my understanding.  
-  My goal is to apply these concepts to real-world tasks like **text similarity, sentiment analysis, and market prediction**.
+  Exploring **Natural Language Processing (NLP)** with a focus on **Transformers, LSTMs, and Autoencoders**.  
+  Diving deep into **text similarity, sentiment analysis, and market prediction**.
 
-- 📫 **How to reach me:**  
+- 🔍 **Looking to Collaborate on:**  
+  Open-source AI & Data Science projects.
+
+- 📫 **How to Reach Me:**  
   **Email:** [karimsouissi30@gmail.com](mailto:karimsouissi30@gmail.com)
 
 ---
 
-### 🌐 Connect with Me
+<!-- Skills Section -->
+## 🚀 Skills  
+
+### **Languages:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DE2F2F?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### **Frameworks & Tools:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0769AD?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
+
+### **Databases & DevOps:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karim12348585&theme=dark" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karim12348585&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Connect with Me Section -->
+## 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/karim-souissi-867694284/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/souissi.karim.3" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/>
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karim12348585&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karim12348585&theme=dark" alt="GitHub Streak" />
-</p>
-
----
-
-### ☕ Support Me
-<p>
+<!-- Support Me Section -->
+## ☕ Support Me  
+<p align="left">
   <a href="https://www.buymeacoffee.com/karimsouissi">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
   <a href="https://ko-fi.com/karimsouissi">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi" />
   </a>
 </p>
