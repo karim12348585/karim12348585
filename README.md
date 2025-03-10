@@ -1,11 +1,18 @@
-<!-- Title Section -->
-<h1 align="center">Hi, I'm Karim Souissi 👋</h1>
-<h3 align="center" style="color:#42a5f5;">A Passionate Data Scientist & AI Enthusiast</h3>
+<!-- Title Section with Animated Wave -->
+<h1 align="center">Hi, I'm Karim Souissi <span class="wave">👋</span></h1>
+
+<!-- Animated Subtitle -->
+<h3 align="center">
+  <a href="https://github.com/karim12348585">
+    <span id="animated-text">A Passionate Data Scientist & AI Enthusiast</span>
+  </a>
+</h3>
 
 ---
 
-<!-- About Me Section -->
-## 🧑‍💻 About Me  
+<!-- About Me Section with Icon -->
+## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-developer-web-development-flaticons-lineal-color-flat-icons-4.png" width="35px"/> About Me  
+
 - 🌱 **Currently Learning:**  
   Exploring **Natural Language Processing (NLP)** with a focus on **Transformers, LSTMs, and Autoencoders**.  
   Diving deep into **text similarity, sentiment analysis, and market prediction**.
@@ -83,3 +90,36 @@
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi" />
   </a>
 </p>
+
+---
+
+<!-- CSS Animations -->
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  20% { transform: rotate(20deg); }
+  40% { transform: rotate(0deg); }
+  60% { transform: rotate(20deg); }
+  80% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+.wave {
+  display: inline-block;
+  animation: wave 1.5s infinite;
+}
+
+@keyframes typing {
+  0% { width: 0; }
+  50% { width: 100%; }
+  100% { width: 0; }
+}
+#animated-text {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid white;
+  font-size: 24px;
+  font-weight: bold;
+  animation: typing 5s steps(30, end) infinite;
+}
+</style>
