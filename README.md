@@ -1,21 +1,21 @@
-<!-- Title Section with Animated Wave -->
-<h1 align="center">Hi, I'm Karim Souissi <span class="wave">👋</span></h1>
+<!-- Title Section with Waving Hand -->
+<h1 align="center">
+  Hi, I'm Karim Souissi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
 <!-- Animated Subtitle -->
 <h3 align="center">
-  <a href="https://github.com/karim12348585">
-    <span id="animated-text">A Passionate Data Scientist & AI Enthusiast</span>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=A+Passionate+Data+Scientist;AI+Enthusiast;Machine+Learning+Practitioner" />
 </h3>
 
 ---
 
-<!-- About Me Section with Icon -->
-## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-developer-web-development-flaticons-lineal-color-flat-icons-4.png" width="35px"/> About Me  
+<!-- About Me Section -->
+## <img src="https://img.icons8.com/color/48/000000/user-male-circle.png" width="35px"/> About Me  
 
 - 🌱 **Currently Learning:**  
-  Exploring **Natural Language Processing (NLP)** with a focus on **Transformers, LSTMs, and Autoencoders**.  
-  Diving deep into **text similarity, sentiment analysis, and market prediction**.
+  Exploring **Natural Language Processing (NLP)** with **Transformers, LSTMs, and Autoencoders**.  
+  Applying it to **text similarity, sentiment analysis, and market prediction**.
 
 - 🔍 **Looking to Collaborate on:**  
   Open-source AI & Data Science projects.
@@ -90,36 +90,3 @@
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi" />
   </a>
 </p>
-
----
-
-<!-- CSS Animations -->
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  20% { transform: rotate(20deg); }
-  40% { transform: rotate(0deg); }
-  60% { transform: rotate(20deg); }
-  80% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-.wave {
-  display: inline-block;
-  animation: wave 1.5s infinite;
-}
-
-@keyframes typing {
-  0% { width: 0; }
-  50% { width: 100%; }
-  100% { width: 0; }
-}
-#animated-text {
-  display: inline-block;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid white;
-  font-size: 24px;
-  font-weight: bold;
-  animation: typing 5s steps(30, end) infinite;
-}
-</style>
