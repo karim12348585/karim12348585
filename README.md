@@ -21,42 +21,45 @@
 <!-- ═══════════════════════════ PLAYER PROFILE ═══════════════════════════ -->
 ## 🕹️ Player Profile
 
-```yaml
-player:      Karim Souissi
-class:       AI Engineer
-guild:       ENET'Com Sfax — Data & Decision Systems ('26)
-main_quest:  Build AI that solves real problems — and ship it to production
-specials:    [Multi-Agent Orchestration, RAG / GraphRAG, MCP Integrations]
-playstyle:   Problem framing → prototype → API → Docker → evaluate → deploy
-status:      🟢 Open to AI Engineer roles & open-source co-op
-```
+<div align="center">
 
-```text
-  ┌─────────────────────── CHARACTER STATS ───────────────────────┐
-  │  LLMs & Agentic AI      ███████████████████░   LVL 95          │
-  │  RAG / GraphRAG         ██████████████████░░   LVL 90          │
-  │  Machine / Deep Learning█████████████████░░░   LVL 85          │
-  │  MLOps & Deployment     ████████████████░░░░   LVL 80          │
-  │  Data Engineering       ███████████████░░░░░   LVL 75          │
-  │  Curiosity              ████████████████████   MAX ★           │
-  └───────────────────────────────────────────────────────────────┘
-```
+<img src="https://img.shields.io/badge/PLAYER-Karim_Souissi-FE428E?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/CLASS-AI_Engineer-7928CA?style=for-the-badge&labelColor=0d1117"/>
+<br/>
+<img src="https://img.shields.io/badge/GUILD-ENET%27Com_Sfax_·_Data_%26_Decision_Systems-00D4FF?style=for-the-badge&labelColor=0d1117"/>
+<br/>
+<img src="https://img.shields.io/badge/STATUS-Open_to_AI_Engineer_roles-2EA043?style=for-the-badge&labelColor=0d1117"/>
 
 <br/>
 
-<!-- ═══════════════════════════ QUEST LOG ═══════════════════════════ -->
-## 🗡️ Quest Log
+🎯 **Main Quest** — *Build AI that solves real problems, and ship it to production.*
 
-| | Quest | Objective | Loot |
-|:-:|:--|:--|:--|
-| 🐞 | **DeepTest Agent** | GraphRAG agent that hunts bugs and generates test cases, with sandboxed code execution | `LangGraph` `FAISS` `Neo4j` `Docker` |
-| 🗺️ | **Market Skill Insights** | Scrapes job posts, clusters in-demand skills, builds personalised upskilling roadmaps — live on Azure | `LLMs` `HDBSCAN` `Docker` `Azure` |
-| 🛒 | **Retail Demand Forecasting** | SKU-level forecasting taken from notebook to production with CI/CD, registry and drift monitoring | `FastAPI` `MLflow` `GitHub Actions` |
-| 🕵️ | **AI-Generated Face Detection** | ViT fine-tuned with LoRA + Optuna, with explainability — **95%** test accuracy | `PyTorch` `ViT` `LoRA` `XAI` |
+<br/>
 
-<p align="center">
-  <a href="https://portfolio-karim-souissi.vercel.app"><b>▶ View all quests on my portfolio</b></a>
-</p>
+| ⚡ Stat | Progress | Lv |
+|:--|:--|:-:|
+| **LLMs & Agentic AI** | <img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱-FE428E?style=flat-square"/> | **95** |
+| **RAG / GraphRAG** | <img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱-D63AB0?style=flat-square"/> | **90** |
+| **ML / Deep Learning** | <img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱-B032C4?style=flat-square"/> | **85** |
+| **MLOps & Deployment** | <img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱-7928CA?style=flat-square"/> | **80** |
+| **Data Engineering** | <img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱-4A6FE0?style=flat-square"/> | **75** |
+| **Curiosity** | <img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰-00D4FF?style=flat-square"/> | **MAX ★** |
+
+<br/>
+
+**✨ Special Moves**
+
+<img src="https://img.shields.io/badge/⚡-Multi--Agent_Orchestration-FE428E?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/⚡-RAG_%2F_GraphRAG-7928CA?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/⚡-MCP_Integrations-00D4FF?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+**🎮 Combo Chain**
+
+<kbd>Frame</kbd> → <kbd>Prototype</kbd> → <kbd>API</kbd> → <kbd>Docker</kbd> → <kbd>Evaluate</kbd> → <kbd>Deploy</kbd>
+
+</div>
 
 <br/>
 
